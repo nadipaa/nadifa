@@ -1,15 +1,7 @@
 // This earthquake data is sourced from New Zealand’s Geonet
 // site over a date range that covers a period of reasonable
 // activity in July/August 2013.
-{
-	"type": "FeatureCollection",
-	"features": [
-	{
-		"type": "Feature",
-		"properties": {},
-		"geometry":{
-		"type": "Point",
-		"coordinates": [
+var quakePoints = [
 [-41.5396,174.1242,1.7345],
 [-38.8725,175.9561,2.6901],
 [-41.8992,174.3117,4.6968],
@@ -5256,10 +5248,4 @@
 [-41.3995,174.9448,1.6697],
 [-43.178,171.9352,3.9391],
 [-41.5592,174.4134,2.0305]
-]
-]
-]
-}
-}
-]
-}
+];
