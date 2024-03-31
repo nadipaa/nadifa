@@ -1,0 +1,111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              110.32156636110221,
+              -7.810190137684003,
+              {"nama": "Universitas Muhammadiyah Yogyakarta",
+               "Jumlah Fakultas: "9",
+               "Jumlah Prodi": "23"}
+            ],
+            [
+              110.32500379483713,
+              -7.818423073709042,
+              {"nama": "Universitas Jenderal Achmad Yani Yogyakarta",
+               "Jumlah Fakultas: "4",
+               "Jumlah Prodi": "16"}
+            ],
+            [
+              110.38940645037411,
+              -7.808332804265945,
+              {"nama": "Universitas Janabadra",
+               "Jumlah Fakultas: "4",
+               "Jumlah Prodi": "11"}
+            ],
+            [
+              110.39240411316553,
+              -7.801541030084977,
+              {"nama": "Universitas Teknologi Yogyakarta",
+               "Jumlah Fakultas: "5",
+               "Jumlah Prodi": "22"}
+            ],
+            [
+              110.40723596196295,
+              -7.781764774403499,
+              {"nama": "Universitas Islam Indonesia",
+               "Jumlah Fakultas: "5",
+               "Jumlah Prodi": "26"}
+            ],
+            [
+              110.41579010678026,
+              -7.779529375050828,
+              {"nama": "Universitas Amikom Yogyakarta",
+               "Jumlah Fakultas: "3",
+               "Jumlah Prodi": "16"}
+            ],
+            [
+              110.41096956864652,
+              -7.769483249800828,
+              {"nama": "Universitas Mercu Buana Yogyakarta",
+               "Jumlah Fakultas: "6",
+               "Jumlah Prodi": "13"}
+            ],
+            [
+              110.41378309318657,
+              -7.763002443155628,
+              {"nama": "STIE YKPN",
+               "Jumlah Fakultas: "1",
+               "Jumlah Prodi": "4"}
+            ],
+            [
+              110.40867614897064,
+              -7.759641710250051,
+              {"nama": "Universitas Atma Jaya Yogyakarta",
+               "Jumlah Fakultas: "6",
+               "Jumlah Prodi": "15"}
+            ],
+            [
+              110.41358539439591,
+              -7.68803292783204,
+              {"nama": "Universitas Respati Yogyakarta",
+               "Jumlah Fakultas: "3",
+               "Jumlah Prodi": "15"}
+            ],
+            [
+              110.35528633546858,
+              -7.748379090438135,
+              {"nama": "Universitas Sarjanawiyata Tamansiswa",
+               "Jumlah Fakultas: "5",
+               "Jumlah Prodi": "21"}
+            ],
+            [
+              110.35730413740447,
+              -7.783849804599143,
+              {"nama": "Universitas Ahmad Dahlan",
+               "Jumlah Fakultas: "11",
+               "Jumlah Prodi": "41"}
+            ],
+            [
+              110.32310579795922,
+              -7.805050487919175,
+              {"nama": "Universitas Alma Ata Yogyakarta",
+               "Jumlah Fakultas: "5",
+               "Jumlah Prodi": "18"}
+            ],
+            [
+              110.32156636110221,
+              -7.810190137684003
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
+}
