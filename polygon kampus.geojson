@@ -5,107 +5,44 @@
       "type": "Feature",
       "properties": {},
       "geometry": {
+        "type": "Polygon",
         "coordinates": [
           [
-            [
-              110.32156636110221,
-              -7.810190137684003,
-              {"nama": "Universitas Muhammadiyah Yogyakarta",
-               "fakultas": "9",
-               "prodi": "23"}
-            ],
-            [
-              110.32500379483713,
-              -7.818423073709042,
-              {"nama": "Universitas Jenderal Achmad Yani Yogyakarta",
-               "fakultas": "4",
-               "prodi": "16"}
-            ],
-            [
-              110.38940645037411,
-              -7.808332804265945,
-              {"nama": "Universitas Janabadra",
-               "fakultas": "4",
-               "prodi": "11"}
-            ],
-            [
-              110.39240411316553,
-              -7.801541030084977,
-              {"nama": "Universitas Teknologi Yogyakarta",
-               "fakultas": "5",
-               "prodi": "22"}
-            ],
-            [
-              110.40723596196295,
-              -7.781764774403499,
-              {"nama": "Universitas Islam Indonesia",
-               "fakultas": "5",
-               "prodi": "26"}
-            ],
-            [
-              110.41579010678026,
-              -7.779529375050828,
-              {"nama": "Universitas Amikom Yogyakarta",
-               "fakultas": "3",
-               "prodi": "16"}
-            ],
-            [
-              110.41096956864652,
-              -7.769483249800828,
-              {"nama": "Universitas Mercu Buana Yogyakarta",
-               "fakultas": "6",
-               "prodi": "13"}
-            ],
-            [
-              110.41378309318657,
-              -7.763002443155628,
-              {"nama": "STIE YKPN",
-               "fakultas": "1",
-               "prodi": "4"}
-            ],
-            [
-              110.40867614897064,
-              -7.759641710250051,
-              {"nama": "Universitas Atma Jaya Yogyakarta",
-               "fakultas": "6",
-               "prodi": "15"}
-            ],
-            [
-              110.41358539439591,
-              -7.68803292783204,
-              {"nama": "Universitas Respati Yogyakarta",
-               "fakultas": "3",
-               "prodi": "15"}
-            ],
-            [
-              110.35528633546858,
-              -7.748379090438135,
-              {"nama": "Universitas Sarjanawiyata Tamansiswa",
-               "fakultas": "5",
-               "prodi": "21"}
-            ],
-            [
-              110.35730413740447,
-              -7.783849804599143,
-              {"nama": "Universitas Ahmad Dahlan",
-               "fakultas": "11",
-               "prodi": "41"}
-            ],
-            [
-              110.32310579795922,
-              -7.805050487919175,
-              {"nama": "Universitas Alma Ata Yogyakarta",
-               "fakultas": "5",
-               "prodi": "18"}
-            ],
-            [
-              110.32156636110221,
-              -7.810190137684003
-            ]
+            [110.32156636110221, -7.810190137684003],
+            [110.32500379483713, -7.818423073709042],
+            [110.38940645037411, -7.808332804265945],
+            [110.39240411316553, -7.801541030084977],
+            [110.40723596196295, -7.781764774403499],
+            [110.41579010678026, -7.779529375050828],
+            [110.41096956864652, -7.769483249800828],
+            [110.41378309318657, -7.763002443155628],
+            [110.40867614897064, -7.759641710250051],
+            [110.41358539439591, -7.68803292783204],
+            [110.35528633546858, -7.748379090438135],
+            [110.35730413740447, -7.783849804599143],
+            [110.32310579795922, -7.805050487919175],
+            [110.32156636110221, -7.810190137684003]
           ]
-        ],
-        "type": "Polygon"
+        ]
+      },
+      "properties": {
+        "nama": "Universitas Muhammadiyah Yogyakarta",
+        "fakultas": "9",
+        "prodi": "23"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Universitas Jenderal Achmad Yani Yogyakarta",
+        "fakultas": "4",
+        "prodi": "16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.32500379483713, -7.818423073709042]
+      }
+    },
+    // Tambahkan fitur lainnya dengan properti yang sesuai
   ]
 }
