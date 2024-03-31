@@ -3,220 +3,279 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesma Mantrijeron",
+        "alamat": "Jl. DI Panjaitan No.82, Suryodiningratan, Kec. Mantrijeron, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55141"
+      },
       "geometry": {
         "coordinates": [
-          110.33779454392084,
-          -7.783094004096469
+          110.36152414122182,
+          -7.820579498603976
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Wirobrajan",
+        "alamat": "Jl. Dorodasih, Patangpuluhan, Wirobrajan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55251"
+      },
       "geometry": {
         "coordinates": [
-          110.32029193211417,
-          -7.800664858937438
+          110.34808975344066,
+          -7.810607283633587
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Ngampilan",
+        "alamat": "JL. Munir Serangan Blok.NG.II No.215, Notoprajan, Ngampilan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55262"
+      },
       "geometry": {
         "coordinates": [
-          110.34809217169123,
-          -7.810606269770119
+          110.35586659902043,
+          -7.803581838464524
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Gondokusuman 1",
+        "alamat": "Jl. Tunjung No.1, Baciro, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55225"
+      },
       "geometry": {
         "coordinates": [
-          110.36498873169239,
-          -7.8060511696628225
+          110.38074997019862,
+          -7.793771938073917
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Gondokusuman 2",
+        "alamat": "Jl. DR. Sardjito No.22, Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55223"
+      },
       "geometry": {
         "coordinates": [
-          110.36153216332002,
-          -7.820579060328299
+          110.37100567074935,
+          -7.778636528265508
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Jetis",
+        "alamat": "Jl. Pangeran Diponegoro No.91, Bumijo, Kec. Jetis, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55231"
+      },
       "geometry": {
         "coordinates": [
-          110.35587004759554,
-          -7.803579813799871
+          110.36246860081121,
+          -7.783291025252083
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Danurejan 2",
+        "alamat": "Jl. Krasak Timur No.34, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
+      },
       "geometry": {
         "coordinates": [
-          110.36246184261643,
-          -7.783290707391657
+          110.37782343914904,
+          -7.788583889612809
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Danurejan 1",
+        "alamat": "Jalan Bausasran DN3 No.819, Bausasran, Kec. Danurejan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55211"
+      },
       "geometry": {
         "coordinates": [
-          110.36157059220687,
-          -7.772516560086572
+          110.37522449362922,
+          -7.794547426702408
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Kraton Yogyakarta",
+        "alamat": "Jalan Musikanan KT II No.457, Panembahan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55131"
+      },
       "geometry": {
         "coordinates": [
-          110.37099690090423,
-          -7.77863600829572
+          110.36499711843476,
+          -7.806043152033965
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Pakualaman",
+        "alamat": "Jl. Jayeng Prawiran No.13, Purwokinanti, Pakualaman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55166"
+      },
       "geometry": {
         "coordinates": [
-          110.3719770585414,
-          -7.79938548789417
+          110.37197804637509,
+          -7.79938889756626
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Tegalrejo",
+        "alamat": "Jl. Magelang No.180 Km.2, Karangwaru, Kec. Tegalrejo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55242"
+      },
       "geometry": {
         "coordinates": [
-          110.37782340056299,
-          -7.7885913388831085
+          110.36156831356345,
+          -7.772518926487692
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Mlati 1",
+        "alamat": "Jl. Wijaya Kusuma, Kutu Tegal, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284"
+      },
       "geometry": {
         "coordinates": [
-          110.38074383670272,
-          -7.7937691076540005
+          110.36287190838993,
+          -7.754454515812782
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Gamping 1",
+        "alamat": "Jl. Delingsari, Ambarketawang, Gamping, Patukan, Ambarketawang, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55294"
+      },
       "geometry": {
         "coordinates": [
-          110.40046641744732,
-          -7.822153029840237
+          110.32029435899119,
+          -7.800666529106749
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Gamping 2",
+        "alamat": "Jl. Titibumi Barat, Patran, Banyuraden, Kec. Gamping, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55293"
+      },
       "geometry": {
         "coordinates": [
-          110.39144173345755,
-          -7.832577382110557
+          110.33781951933923,
+          -7.78310058650348
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Depok 3",
+        "alamat": "Jl. Komp. Colombo No.50a, Mrican, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
+      },
       "geometry": {
         "coordinates": [
-          110.39477671745408,
-          -7.806240945760621
+          110.38944048734209,
+          -7.778282131845458
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Umbulharjo 1",
+        "alamat": "Jl. Veteran No.43, Muja Muju, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55165"
+      },
       "geometry": {
         "coordinates": [
-          110.4139400072902,
-          -7.8291020751004226
+          110.39477977312436,
+          -7.806246646177456
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas KOtagede 1",
+        "alamat": "Jl. Kemasan No.12, Prenggan, Kec. Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55173"
+      },
       "geometry": {
         "coordinates": [
-          110.38344264361882,
-          -7.825502377507036
+          110.40045556262396,
+          -7.822159564885126
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Kotagede 2",
+        "alamat": "Jl. Ki Penjawi No.4, Rejowinangun, Kec. Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55172"
+      },
       "geometry": {
         "coordinates": [
-          110.34651393041014,
-          -7.701866658813486
+          110.3946456963086,
+          -7.813720151414444
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nama": "Puskesmas Pembantu Giwangan",
+        "alamat": "598R+XH3, Jl. Imogiri Tim., Giwangan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55163"
+      },
       "geometry": {
         "coordinates": [
-          110.30100753269107,
-          -7.71924794546112
+          110.39144465928405,
+          -7.832574014176288
         ],
         "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+      "nama": "Puskesmas Pembantu Nitikan",
+      "alamat": "Jl. Sorogenen, Sorosutan, Kec. Umbulharjo, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55162"},
       "geometry": {
         "coordinates": [
-          110.32820459938023,
-          -7.732863315436944
+          110.38343422108147,
+          -7.8255024048906705
         ],
         "type": "Point"
       }
